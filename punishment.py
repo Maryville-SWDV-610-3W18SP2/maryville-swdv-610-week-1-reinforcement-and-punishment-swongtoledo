@@ -3,4 +3,4 @@ def spamPrint(num):
         print ("I will never spam my friends again.")
         
         
-spamPrint(50)
+spamPrint(100)
